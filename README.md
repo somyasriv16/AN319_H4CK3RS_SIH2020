@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="WikiPills logo" width="128" height="128" src="./Web-module/public/img/icons/android-chrome-256x256.png">
-</p>
-
 # **WikiPills**
 
 
