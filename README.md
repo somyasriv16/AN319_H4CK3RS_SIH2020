@@ -1,5 +1,3 @@
-# AN319_H4CK3RS_SIH2020
-Common repository for our platform - WikiPills
 <p align="center">
     <img alt="WikiPills logo" width="128" height="128" src="./Web-module/public/img/icons/android-chrome-256x256.png">
 </p>
@@ -27,28 +25,3 @@ WikiPills uses novel geofencing techniques to monitor patients and maintains the
 - **Aditi Voicebot:** Python, Flask (for routing tasks and handling API calls), ngrok, Twilio <br>
 - **AR module:** Vuforia via Unity<br>
 - **Alexa Skill:** Alexa Developer Console
-
-
-## Web Application
-
-Read more about the web application [here](https://github.com/yashjaiswal1/AN319_H4CK3RS_SIH2020/tree/master/Web-module).
-
-
-## Aditi Voicebot
-
-Read more about the IVR-based voicebot [here](https://github.com/yashjaiswal1/AN319_H4CK3RS_SIH2020/tree/master/Aditi-voicebot-module).
-
-
-## Android Application
-
-Read more about the mobile application [here](https://github.com/yashjaiswal1/AN319_H4CK3RS_SIH2020/tree/master/Android-app).
-
-
-## Augmented Reality (AR) module
-
-Read more about the AR module [here](https://github.com/yashjaiswal1/AN319_H4CK3RS_SIH2020/tree/master/AR-module).
-
-
-# Contributors
-
-See [CONTRIBUTORS.md](CONTRIBUTORS.md).
